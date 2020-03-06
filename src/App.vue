@@ -7,7 +7,7 @@
     >
       <template v-slot:header>
         <div style="font-family: 'Roboto', sans-serif; font-size: 45px">
-          2019-nCoV Map
+          COVID-19 Map
         </div>
       </template>
       <hr class="my-4" />
